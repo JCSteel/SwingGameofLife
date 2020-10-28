@@ -1,4 +1,4 @@
-# TeamLeela-GameOfLife
+# SwingGameOfLife
 CS3398 Software Engineering Project 1: Game of Life
 
 TO RUN THE APP: 
